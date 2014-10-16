@@ -7,7 +7,7 @@ A collection of design focused automation apps/scripts. **Please be warned** I a
 * Exporting the **Artboards** from a selected Sketch File in the finder.
 * Exporting the **Pages** from a selected Sketch File in the finder.
 * Exporting the **Slices** from a selected Sketch File in the finder.
-* Also included a Alfred Script that uses these with the "File Selection" Option
+* Also included a **Alfred Script** that uses these with the "File Selection" Option
 Can use Applescripts or install the Workflows and use them directly from the finder!!!!!
 ![Sketch Export Services Workflows](http://monosnap.com/image/88B9kA3QFmW2WXHzuVH7FLitrsOj13.png)
 
