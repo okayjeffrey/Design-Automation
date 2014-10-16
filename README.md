@@ -3,7 +3,7 @@ Design-Automation
 
 A collection of design focused automation apps/scripts. **Please be warned** I am a hack, so if it is broken I am sorry I usually try and be thoughtful with my code but sometimes it just is made to work for me.
 
-### Sketch Exporting (must have [Sketchtool Installed](http://bohemiancoding.com/sketch/tool/))
+### Sketch Exporting (requires [Sketchtool](http://bohemiancoding.com/sketch/tool/))
 * Exporting the **Artboards** from a selected Sketch File in the finder.
 * Exporting the **Pages** from a selected Sketch File in the finder.
 * Exporting the **Slices** from a selected Sketch File in the finder.
