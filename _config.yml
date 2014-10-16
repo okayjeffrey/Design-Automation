@@ -1,9 +1,0 @@
-# Site settings
-title: Design Automation
-email: me@jeffreylarrimore.com
-description:
-baseurl: "/Design-Automation/" # the subpath of your site, e.g. /blog/
-url: "http://jeffreylarrimore.com" # the base hostname & protocol for your site
-
-# Build settings
-markdown: redcarpet
