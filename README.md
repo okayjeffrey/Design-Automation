@@ -6,6 +6,6 @@ A collection of design focused automation apps/scripts. **Please be warned** I a
 ## Apps
 
 * Just add "-[DPI size]" after your asset in generation and then drag all the final assets to this app and it will sort them to folders and delete the extra extention.
-* Exporting the Artboards from a selected Sketch File in the finder.
-* Exporting the Pages from a selected Sketch File in the finder.
-* Exporting the Slices from a selected Sketch File in the finder.
+* Exporting the **Artboards** from a selected Sketch File in the finder.
+* Exporting the **Pages** from a selected Sketch File in the finder.
+* Exporting the **Slices** from a selected Sketch File in the finder.
