@@ -1,0 +1,15 @@
+[submodule "sketch/sketch-text-uppercase"]
+	path = sketch/sketch-text-uppercase
+	url = https://github.com/keeg/sketch-text-uppercase.git
+[submodule "sketch/zeplin-sketch-plugin"]
+	path = sketch/zeplin-sketch-plugin
+	url = https://github.com/zeplin/zeplin-sketch-plugin.git
+[submodule "sketch/sketch-measure"]
+	path = sketch/sketch-measure
+	url = https://github.com/utom/sketch-measure.git
+[submodule "sketch/sketch-dynamic-button"]
+	path = sketch/sketch-dynamic-button
+	url = https://github.com/ddwht/sketch-dynamic-button.git
+[submodule "sketch/plugin-requests"]
+	path = sketch/plugin-requests
+	url = https://github.com/sketchplugins/plugin-requests.git
