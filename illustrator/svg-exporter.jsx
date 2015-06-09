@@ -34,6 +34,7 @@ var exportFolder,
 try {
   if ( app.documents.length > 0 ) {
     svgOptions = new ExportOptionsSVG();
+    svgOptions.artBoardClipping = true;
     svgOptions.embedRasterImages = false;
     svgOptions.cssProperties = SVGCSSPropertyLocation.PRESENTATIONATTRIBUTES;
     svgOptions.fontSubsetting = SVGFontSubsetting.None;
